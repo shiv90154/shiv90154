@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shiv Kumar, a passionate B.Tech CSE student (2022–2026) from Baddi University, Himachal Pradesh 🇮🇳.  <br>I’m working towards becoming a  Full Stack Developer, and I love building modern, responsive, and meaningful web applications.<br><br>- 🌱 Currently learning **MERN Stack**, React, and Next.js  <br>- 💻 Interested in Web Development & Open Source  <br>- 🚀 Always curious to learn new technologies and improve my skills  <br>- 🛠️ Exploring real-world projects and internships to grow<br>
+Hi, I'm Abhi, a passionate B.Tech CSE student (2022–2026) from Baddi University, Himachal Pradesh 🇮🇳.  <br>I’m working towards becoming a  Full Stack Developer, and I love building modern, responsive, and meaningful web applications.<br><br>- 🌱 Currently learning **MERN Stack**, React, and Next.js  <br>- 💻 Interested in Web Development & Open Source  <br>- 🚀 Always curious to learn new technologies and improve my skills  <br>- 🛠️ Exploring real-world projects and internships to grow<br>
 
 
 # 💻 Tech Stack:

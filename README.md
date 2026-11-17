@@ -1,6 +1,6 @@
 # Hi, I'm Shiv
 
-Full Stack Developer at [Inphora Pvt. Ltd.](https://inphora.in). I build production web apps, admin panels and Android apps, and run a few products of my own on the side.
+Full Stack Developer. I build production web apps, admin panels and Android apps, and run a few products of my own on the side.
 
 ## Tech stack
 

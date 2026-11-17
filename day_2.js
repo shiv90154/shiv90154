@@ -1,3 +1,0 @@
-//  undefined
-
-var a;
